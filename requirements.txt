@@ -1,0 +1,5 @@
+asyncio
+aiogram==2.25.2
+python-dotenv
+pandas
+openpyxl
